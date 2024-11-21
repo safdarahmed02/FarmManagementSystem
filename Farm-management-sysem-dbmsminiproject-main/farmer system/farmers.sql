@@ -114,7 +114,7 @@ CREATE TABLE `test` (
 --
 
 INSERT INTO `test` (`id`, `name`) VALUES
-(1, 'harshith');
+(1, 'john');
 
 -- --------------------------------------------------------
 
@@ -134,11 +134,11 @@ CREATE TABLE `trig` (
 --
 
 INSERT INTO `trig` (`id`, `fid`, `action`, `timestamp`) VALUES
-(1, '2', 'FARMER UPDATED', '2021-01-19 23:04:44'),
-(2, '2', 'FARMER DELETED', '2021-01-19 23:04:58'),
-(3, '8', 'Farmer Inserted', '2021-01-19 23:16:52'),
-(4, '8', 'FARMER UPDATED', '2021-01-19 23:17:17'),
-(5, '8', 'FARMER DELETED', '2021-01-19 23:18:54');
+(1, '2', 'FARMER UPDATED', '2024-10-19 23:04:44'),
+(2, '2', 'FARMER DELETED', '2024-10-19 23:04:58'),
+(3, '8', 'Farmer Inserted', '2024-10-19 23:16:52'),
+(4, '8', 'FARMER UPDATED', '2024-10-19 23:17:17'),
+(5, '8', 'FARMER DELETED', '2024-10-19 23:18:54');
 
 -- --------------------------------------------------------
 
